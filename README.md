@@ -1,1 +1,1 @@
-# Distortion correction with blipped up and blipped down data
+Please refer to the wiki page!
