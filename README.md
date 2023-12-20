@@ -1,1 +1,1 @@
-Please refer to the wiki page!
+Please refer to the Wiki page on the top menu!
